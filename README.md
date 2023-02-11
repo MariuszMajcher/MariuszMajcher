@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariuszMajcher
 - 👀 I’m interested in all the aspects of computer programming
-- 🌱 I’m currently learning react, node js, express js...
+- 🌱 I’m currently learning react, node js, express js, github, javascript, c++, html, css,  
 - 💞️ I’m looking to collaborate on app creation
 
 <!---
